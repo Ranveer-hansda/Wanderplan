@@ -1,2 +1,0 @@
-# Wanderplan
-Travel Itinerary Tool
